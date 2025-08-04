@@ -36,7 +36,14 @@ A full-stack to-do list web app built with **React**, **Firebase Authentication*
 
 ## 📷 Screenshots
 
-> *Add screenshots of your app here (homepage, login screen, to-do list)*
+
+<img width="1904" height="418" alt="Screenshot 2025-08-04 181945" src="https://github.com/user-attachments/assets/b9e0e984-e61c-440c-97eb-2e48858beff9" />
+
+<img width="1910" height="615" alt="Screenshot 2025-08-04 182018" src="https://github.com/user-attachments/assets/9c911587-f086-4fc4-9d03-dd0a796b1b17" />
+
+<img width="1789" height="520" alt="Screenshot 2025-08-04 182035" src="https://github.com/user-attachments/assets/41bb11e6-b146-46d0-a360-a74836d95476" />
+
+<img width="1882" height="623" alt="Screenshot 2025-08-04 182057" src="https://github.com/user-attachments/assets/54dc9655-7dc1-4f59-9d8d-533769f4123a" />
 
 ---
 
